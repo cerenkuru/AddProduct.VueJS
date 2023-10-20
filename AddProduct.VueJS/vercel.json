@@ -5,5 +5,5 @@
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
   ],
-  "output": "public" // Bu satırı ekleyin ve 'public' olarak ayarlayın.
+  "output": "public" 
 }
